@@ -2,6 +2,8 @@
 
 Coco, a charcoal curly-haired dog relaxing on his bright pink inflatable duck.
 
+![Coco](coco.png)
+
 ## Install
 
 ```sh
